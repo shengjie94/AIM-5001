@@ -1,2 +1,1 @@
-Project/Motor.csv filter=lfs diff=lfs merge=lfs -text
-Project[[:space:]]1/Motor.csv filter=lfs diff=lfs merge=lfs -text
+Motor.csv filter=lfs diff=lfs merge=lfs -text
