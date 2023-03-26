@@ -1,0 +1,20 @@
+[
+  {
+    "Album Title": "Abbey Road",
+    "Artist": "The Beatles",
+    "Songs": ["Come Together", "Something", "Maxwell's Silver Hammer", "Oh! Darling", "Octopus's Garden"],
+    "Release Year": 1969
+  },
+  {
+    "Album Title": "Rumours",
+    "Artist": "Fleetwood Mac",
+    "Songs": ["Second Hand News", "Dreams", "Never Going Back Again", "Don't Stop", "Go Your Own Way"],
+    "Release Year": 1977
+  },
+  {
+    "Album Title": "Thriller",
+    "Artist": "Michael Jackson",
+    "Songs": ["Wanna Be Startin' Somethin'", "Baby Be Mine", "The Girl Is Mine", "Thriller", "Beat It"],
+    "Release Year": 1982
+  }
+]
